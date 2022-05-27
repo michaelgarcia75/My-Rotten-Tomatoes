@@ -10,7 +10,9 @@ const MovieModel = require('./model/modelMovies');
 //     useNewUrlParser: true,
 //     useUnifiedTopology: true,
 // });
-mongoose.connect('mongodb+srv://fdizes:vMPSvsv0rNz4wTp0@cluster0.9oo8u.mongodb.net/rottenTomatoes', {
+mongoose.connect(
+    // 'PUT DATABASE HERE'
+    , {
     w: 'majority',
     retryWrites: true,
     useNewUrlParser: true,
