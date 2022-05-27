@@ -1,0 +1,33 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+html body div#__next div.MuiBox-root.css-fud5pb div.MuiPaper-root.MuiPaper-elevation2.MuiPaper-rounded div.Component-horizontalScrollContainer-12 div div div table.MuiTable-root thead.MuiTableHead-root tr.MuiTableRow-root.MTableHeader-headerRow-13.MuiTableRow-head th.MuiTableCell-root.MuiTableCell-head.MTableHeader-header-14.MuiTableCell-alignLeft div{
+  width: 300px;
+}
+button {
+  
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.on {
+  color: #000;
+}
+.off {
+  color: #ccc;
+}
+
